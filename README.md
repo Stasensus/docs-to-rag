@@ -6,9 +6,15 @@ A Claude Code plugin that handles the messy part of document analysis: mixed PDF
 
 Built for a real-world case: analysing a 2655-page Russian criminal case file in one day.
 
+![demo](assets/demo.gif)
+
+<details><summary>Individual screenshots</summary>
+
 ![detect](assets/01_detect.png)
 ![build](assets/02_build.png)
 ![query](assets/03_query.png)
+
+</details>
 
 ## What it does
 
