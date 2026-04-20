@@ -1,0 +1,10 @@
+{
+  "name": "docs-to-rag",
+  "version": "0.1.0",
+  "description": "Turn any folder of documents (PDFs, DOCX, scans, images) into a local searchable RAG database with semantic search. Offline, GPU-accelerated OCR, zero cloud dependencies.",
+  "author": {
+    "name": "Stanislav Kireev",
+    "email": "noreply@example.com"
+  },
+  "keywords": ["ocr", "rag", "search", "documents", "vector-db", "embeddings", "offline"]
+}

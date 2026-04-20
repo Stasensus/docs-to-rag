@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Build/index artefacts (users generate these locally)
+.docs-to-rag/
+_ocr/
+_pages/
+_index/
+_graph_input/
+graphify-out/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+
+# Model caches
+.cache/
+~/.cache/
